@@ -10,8 +10,8 @@ Follow these instructions to setup an android emulator on OS X.
     1. From main Android Studio window Click `Configue` (bottom right) > `SDK Manager`
     1. Look at the list under SDK Platforms column
     1. Check the box at the bottom right to "Show Package Details"
-    1. Look for `Android 7.1 (Nouget)`
-        * Check the box next to these three packages under `7.1 (Nouget)`:
+    1. Look for `Android 7.1 (Nougat)`
+        * Check the box next to these three packages under `7.1 (Nougat)`:
             - [ ] Android TV Intel x86 Atom System Image
             - [ ] Google APIs Intel x86 Atom 64 System Image
             - [ ] Google APIs Intel x86 Atom System Image
@@ -28,7 +28,7 @@ Follow these instructions to setup an android emulator on OS X.
     1. From main Android Studio window Click `Configure` (bottom right) > `ADV Manager`
     1. Select `Nexus 5X` from the list
     1. Click "`Next`" button
-    1. Select `Nouget (Android 7.1.1)` from the list
+    1. Select `Nougat (Android 7.1.1)` from the list
         * Click the blue "`Download`" link if you need to install (if you can't click "`Next`" you will need to install) and follow instructions
     1. Click "`Next`" button
     1. Click "`Finish`" button
